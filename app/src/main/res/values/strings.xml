@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Products List App</string>
+    <string name="hint_crn">CRN</string>
+    <string name="hint_password">Password</string>
+    <string name="forgot">Forgot?</string>
+    <string name="login">Login</string>
+    <string name="enter_crn">Please enter CRN</string>
+    <!--    <string name="enter_valid_email">Please enter valid email address</string>-->
+    <string name="enter_password">Please enter password</string>
+    <string name="enter_valid_password">Password should be minimum 6 characters long</string>
+    <string name="dollar_price">$%s</string>
+    <string name="tax">Tax: $%s</string>
+    <string name="search">Search</string>
+    <string name="add_product">Add Product</string>
+    <string name="lbl_product_type">Product Type</string>
+    <string name="lbl_product_name">Product Name</string>
+    <string name="lbl_product_price">Price</string>
+    <string name="lbl_product_tax">Tax</string>
+    <string name="add">Add</string>
+    <string name="add_image">Add Image</string>
+    <string name="err_prod_type">Please select Product Type!</string>
+    <string name="err_prod_name">Please enter Product Name!</string>
+    <string name="err_prod_price">Please enter Product Price!</string>
+    <string name="err_prod_tax">Please enter Product Tax!</string>
+    <string name="internet_not_available">No internet available, please check your WiFi or Data connection!</string>
+
+</resources>

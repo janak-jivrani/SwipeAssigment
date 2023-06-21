@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ED5330</color>
+    <color name="colorPrimaryVariant">#E6441F</color>
+    <color name="colorSecondary">#ED5330</color>
+    <color name="colorSecondaryVariant">#E6441F</color>
+    <color name="colorAccent">#ED5330</color>
+    <color name="gray">#DEE2E5</color>
+    <color name="light_gray">#F6F6F6</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="text_orange">#F68877</color>
+    <color name="colorBg">#F8F8F8</color>
+    <color name="colorOrangeBlack">#272320</color>
+    <color name="grayDark">#5A5A5A</color>
+    <color name="orange_transparent">#33F68877</color>
+
+    <color name="ucrop_color_toolbar">@color/colorPrimary</color>
+    <color name="ucrop_color_statusbar">@color/colorPrimaryVariant</color>
+    <color name="ucrop_color_widget_active">@color/colorPrimary</color>
+</resources>
